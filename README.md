@@ -1,3 +1,7 @@
+Requires:
+
+Glib and libcheck
+
 # Lab01-SisOp-2022
 ## Grupo N° 15
 #### Integrantes:
